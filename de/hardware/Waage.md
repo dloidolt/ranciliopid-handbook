@@ -19,12 +19,12 @@ Inhaltsverzeichnis
 
 Für den Vollausbau besteht die Möglichkeit der Ergänzung einer Waage für den Bezug nach Gewicht (Stopp bei Zielgewicht).
 Der Grundaufbau entspricht dabei bekannter Waagen mit einer Wägezelle. Diese wird mittels eines HX711 an den Arduino angeschlossen.
-Einen ausführlichen Einblick bekommt ihr auch im Chat im Kanal Waage:[Link](https://chat.rancilio-pid.de/ranciliopid/channels/projekt-waage)
+Einen ausführlichen Einblick bekommt ihr auch im Chat im Kanal Waage: [Link](https://chat.rancilio-pid.de/ranciliopid/channels/projekt-waage)
 
 ## Der Hardware-Aufbau
 
 Ihr benötigt eine Wäägezelle mit einer ausreichend genauen Auflösung (0,1gr) und ausreichend Tragkraft (also größer Gewicht Abtropfschale + Lieblingstasse).
-Aktuell sind folgende Zellen die meistverbauten: [Link] (https://amzn.to/2RWJnKs)
+Aktuell sind folgende Zellen die meistverbauten: [Link](https://amzn.to/2RWJnKs)
 
 Um die Zellen am Gehäuse zu montieren gibt es eine Adapter-Lösung zum Klemmen, und eine zum Schieben, für den 3D-Drucker. Hier könnt ihr im Chat je nach Maschine die passenden Files finden.
 Kanal Waage: [Link](https://chat.rancilio-pid.de/ranciliopid/channels/projekt-waage)
